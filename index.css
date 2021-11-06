@@ -339,6 +339,10 @@ h3{
     }
 }
 
+.info {
+    color: #29242C;
+}
+
 .infoH3{
     background-color: #320B61;
     line-height: 24.18px;
@@ -702,6 +706,7 @@ h3{
 .bigBlockFlex{
     display: flex;
     flex-direction: column;
+    color: #060606;
 }
 
 .firstBigBlock p{
